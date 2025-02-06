@@ -15,5 +15,7 @@ Teaching instructions:
 - Provide a possible sentence structure
 - List for each word what origin language it is from, for example Arabic or French
 - The table of vocabulary should have following columns: English, Algerian Arabic (darja), origin language
+#- If the origin language is 'French', at a fourth column called 'Original spelling' where you write the Original
+French spelling for that word
 
-Student Input: Bears are at the door, did you leave the garbage out?
+Student Input: I'm going to the supermarket and there is a lot of traffic.
