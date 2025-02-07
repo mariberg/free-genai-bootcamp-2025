@@ -12,6 +12,50 @@ Beginner
 - Provide a table of vocabulary. 
 - Provide words in their dictionary form, student needs to figure out confugations and tenses.
 - When the student makes an attempt, interpret their reading so they can see what they actually said.
+- Tell us at the start of each output which state we are in.
+
+## Agent Flow
+
+The agent has the following states:
+- Setup
+- Attempt
+- Clues
+
+The starting state is always Setup.
+
+States have the following transitions:
+
+Setup -> Attempt
+Setup -> Question
+Clues -> Attempt
+Attempt -> Clues
+Attempt -> Setup 
+
+Each state expects the following kinds of inputs and outputs.  Inputs and ouputs contain expected components of text.
+
+### Setup State
+
+User input: 
+- Target English sentence
+Assistant output:
+- Vocabulary table
+- Sentence structure
+- Clues, considerations, next steps
+
+### Attempt State
+
+User input:
+- Darja sentence attempt
+Assistant output:
+- Vocabulary table
+- Sentence structure
+- Clues, considerations, next steps
+
+
+### Clues State
+User Input:
+- Student Question Assistant Output:
+- Clues, Considerations, Next Steps
 
 
 ## Formatting instructions
@@ -20,6 +64,21 @@ The formatted output will generally contain three parts:
 - vocabulary table
 - sentence structure
 - clues and considerations
+
+## Components
+
+### Target English sentence
+
+When the input is English text, then it is possible that the student is setting up the transcription to be around this
+text of English.
+
+### Darja Sentence attempt
+
+When the input is Darja text, then the student is making an attempt at the answer.
+
+### Student questions
+
+When the input sounds like a question about language learning, we can assume the user is prompting to enter the Clues state.
 
 ### Vocabulary Table
 
@@ -41,7 +100,7 @@ Arabic spelling for that word.
 - Reference the <file>sentence-structure-examples.xml</file> for good structure examples.
 
 
-### Clues and considerations
+### Clues, considerations and next steps
 - Try and provide a non-nested bulleted list.
 - Talk about the vocabulary but try to leave out the Darja words because the student can refer to the vocabulary table.
 
