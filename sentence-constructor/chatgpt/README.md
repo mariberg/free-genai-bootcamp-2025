@@ -2,8 +2,6 @@
 
 ### Which Model
 
-GPT 4o
-
 I'm using the free version of ChatGPT. The model it is currently giving me is ChatGPT-4-Turbo, which performs similarly while being more efficient.
 
 ## Prompting Guides
