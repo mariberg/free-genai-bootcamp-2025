@@ -1,0 +1,18 @@
+<sentence-structure-examples>
+    <example>
+        <sentence>Where are you?</sentence>
+        <structure>[Question word] [Subject] [Location]?</structure>
+    <example>
+    <example>
+        <sentence>What do you want?</sentence>
+        <structure>[Question word] [Verb] [Subject]?</structure>
+    <example>
+    <example>
+        <sentence>We didn’t go to the cinema.</sentence>
+        <structure>[Subject] **ما** (mā) [Verb] **ش** (sh) [Location]</structure>
+    <example>
+    <example>
+        <sentence>I want tea.</sentence>
+        <structure>[Subject] [Verb] [Object]</structure>
+    <example>
+</sentence-structure-examples>
