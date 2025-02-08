@@ -1,10 +1,10 @@
-## MetaAI Powered Assistant Guide
+## Claude Powered Assistant Guide
 
 ### Which Model
 
 Claude Sonnet 3.5 (2025 Q1)
 
-I'm using the free version of Claude Sonnet and we are going to be using projects.
+I'm using the free version of Claude Sonnet and the free plan doesn't allow be to use projects.
 
 
 ### Prompting Guides
