@@ -1,0 +1,668 @@
+[
+  {
+    "latin_spelling": "mlih",
+    "origin_language": "Arabic",
+    "arabic_spelling": "مليح",
+    "english": "good"
+  },
+  {
+    "latin_spelling": "bien",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "good"
+  },
+  {
+    "latin_spelling": "qdim",
+    "origin_language": "Arabic",
+    "arabic_spelling": "قديم",
+    "english": "old"
+  },
+  {
+    "latin_spelling": "meshgoul",
+    "origin_language": "Arabic",
+    "arabic_spelling": "مشغول",
+    "english": "busy"
+  },
+  {
+    "latin_spelling": "jdid",
+    "origin_language": "Arabic",
+    "arabic_spelling": "جديد",
+    "english": "new"
+  },
+  {
+    "latin_spelling": "khayeb",
+    "origin_language": "Arabic",
+    "arabic_spelling": "خايب",
+    "english": "bad"
+  },
+  {
+    "latin_spelling": "mauvais",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "bad"
+  },
+  {
+    "latin_spelling": "hzin",
+    "origin_language": "Arabic",
+    "arabic_spelling": "حزين",
+    "english": "sad"
+  },
+  {
+    "latin_spelling": "triste",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "sad"
+  },
+  {
+    "latin_spelling": "ferhan",
+    "origin_language": "Arabic",
+    "arabic_spelling": "فرحان",
+    "english": "glad"
+  },
+  {
+    "latin_spelling": "content",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "glad"
+  },
+  {
+    "latin_spelling": "ghlid",
+    "origin_language": "Arabic",
+    "arabic_spelling": "غليظ",
+    "english": "fat"
+  },
+  {
+    "latin_spelling": "rqiq",
+    "origin_language": "Arabic",
+    "arabic_spelling": "رقيق",
+    "english": "thin"
+  },
+  {
+    "latin_spelling": "intéressant",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "interesting"
+  },
+  {
+    "latin_spelling": "kifkif",
+    "origin_language": "Arabic",
+    "arabic_spelling": "كيف كيف",
+    "english": "same"
+  },
+  {
+    "latin_spelling": "sale",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "dirty"
+  },
+  {
+    "latin_spelling": "shbab",
+    "origin_language": "Arabic",
+    "arabic_spelling": "شباب",
+    "english": "pretty"
+  },
+  {
+    "latin_spelling": "joli",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "pretty"
+  },
+  {
+    "latin_spelling": "skhoun",
+    "origin_language": "Arabic",
+    "arabic_spelling": "سخون",
+    "english": "hot"
+  },
+  {
+    "latin_spelling": "chaud",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "hot"
+  },
+  {
+    "latin_spelling": "berd",
+    "origin_language": "Arabic",
+    "arabic_spelling": "برد",
+    "english": "cold"
+  },
+  {
+    "latin_spelling": "froid",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "cold"
+  },
+  {
+    "latin_spelling": "nbghi",
+    "origin_language": "Arabic",
+    "arabic_spelling": "نبغي",
+    "english": "to like"
+  },
+  {
+    "latin_spelling": "aimer",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "to like"
+  },
+  {
+    "latin_spelling": "barad",
+    "origin_language": "Arabic",
+    "arabic_spelling": "بارد",
+    "english": "cool"
+  },
+  {
+    "latin_spelling": "frais",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "cool"
+  },
+  {
+    "latin_spelling": "bnin",
+    "origin_language": "Arabic",
+    "arabic_spelling": "بنين",
+    "english": "tasty"
+  },
+  {
+    "latin_spelling": "délicieux",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "tasty"
+  },
+  {
+    "latin_spelling": "nhebb bezzaf",
+    "origin_language": "Arabic",
+    "arabic_spelling": "نحب بزاف",
+    "english": "to love"
+  },
+  {
+    "latin_spelling": "adorer",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "to love"
+  },
+  {
+    "latin_spelling": "har",
+    "origin_language": "Arabic",
+    "arabic_spelling": "حار",
+    "english": "spicy"
+  },
+  {
+    "latin_spelling": "piquant",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "spicy"
+  },
+  {
+    "latin_spelling": "masamit",
+    "origin_language": "Arabic",
+    "arabic_spelling": "ماشي بنين",
+    "english": "bland"
+  },
+  {
+    "latin_spelling": "fade",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "bland"
+  },
+  {
+    "latin_spelling": "hayel",
+    "origin_language": "Arabic",
+    "arabic_spelling": "هايل",
+    "english": "awesome"
+  },
+  {
+    "latin_spelling": "génial",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "awesome"
+  },
+  {
+    "latin_spelling": "rawy3",
+    "origin_language": "Arabic",
+    "arabic_spelling": "روعة",
+    "english": "wonderful"
+  },
+  {
+    "latin_spelling": "merveilleux",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "wonderful"
+  },
+  {
+    "latin_spelling": "dyiq",
+    "origin_language": "Arabic",
+    "arabic_spelling": "ضيق",
+    "english": "narrow"
+  },
+  {
+    "latin_spelling": "étroit",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "narrow"
+  },
+  {
+    "latin_spelling": "tyeb",
+    "origin_language": "Arabic",
+    "arabic_spelling": "طيب",
+    "english": "kind"
+  },
+  {
+    "latin_spelling": "gentil",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "kind"
+  },
+  {
+    "latin_spelling": "qrib",
+    "origin_language": "Arabic",
+    "arabic_spelling": "قريب",
+    "english": "near; close"
+  },
+  {
+    "latin_spelling": "proche",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "near; close"
+  },
+  {
+    "latin_spelling": "yemel",
+    "origin_language": "Arabic",
+    "arabic_spelling": "يمل",
+    "english": "boring"
+  },
+  {
+    "latin_spelling": "ennuyeux",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "boring"
+  },
+  {
+    "latin_spelling": "b3id",
+    "origin_language": "Arabic",
+    "arabic_spelling": "بعيد",
+    "english": "far"
+  },
+  {
+    "latin_spelling": "lointain", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "far"
+  },
+  {
+    "latin_spelling": "mashhour",
+    "origin_language": "Arabic",
+    "arabic_spelling": "مشهور",
+    "english": "famous"
+  },
+  {
+    "latin_spelling": "célèbre", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "famous"
+  },
+  {
+    "latin_spelling": "twil",
+    "origin_language": "Arabic",
+    "arabic_spelling": "طويل",
+    "english": "long"
+  },
+  {
+    "latin_spelling": "long", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "long" 
+  },
+  {
+    "latin_spelling": "was3",
+    "origin_language": "Arabic",
+    "arabic_spelling": "واسع",
+    "english": "wide"
+  },
+  {
+    "latin_spelling": "large",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "wide"
+  },
+  {
+    "latin_spelling": "hbet",
+    "origin_language": "Arabic",
+    "arabic_spelling": "هابط",
+    "english": "low"
+  },
+  {
+    "latin_spelling": "bas", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "low"
+  },
+  {
+    "latin_spelling": "ghrib",
+    "origin_language": "Arabic",
+    "arabic_spelling": "غريب",
+    "english": "strange"
+  },
+  {
+    "latin_spelling": "étrange", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "strange"
+  },
+  {
+    "latin_spelling": "qsir",
+    "origin_language": "Arabic",
+    "arabic_spelling": "قصير",
+    "english": "short"
+  },
+  {
+    "latin_spelling": "court", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "short"
+  },
+  {
+    "latin_spelling": "ghali",
+    "origin_language": "Arabic",
+    "arabic_spelling": "غالي",
+    "english": "expensive"
+  },
+  {
+    "latin_spelling": "cher", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "expensive"
+  },
+  {
+    "latin_spelling": "sghir",
+    "origin_language": "Arabic",
+    "arabic_spelling": "صغير",
+    "english": "small"
+  },
+  {
+    "latin_spelling": "petit", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "small"
+  },
+  {
+    "latin_spelling": "rkhis",
+    "origin_language": "Arabic",
+    "arabic_spelling": "رخيص",
+    "english": "cheap"
+  },
+  {
+    "latin_spelling": "bon marché", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "cheap"
+  },
+  {
+    "latin_spelling": "kbir",
+    "origin_language": "Arabic",
+    "arabic_spelling": "كبير",
+    "english": "large"
+  },
+  {
+    "latin_spelling": "grand", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "large"
+  },
+  {
+    "latin_spelling": "moumti3",
+    "origin_language": "Arabic",
+    "arabic_spelling": "ممتع",
+    "english": "fun"
+  },
+  {
+    "latin_spelling": "amusant", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "fun"
+  },
+  {
+    "latin_spelling": "qwi",
+    "origin_language": "Arabic",
+    "arabic_spelling": "قوي",
+    "english": "strong"
+  },
+  {
+    "latin_spelling": "fort",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "strong"
+  },
+  {
+    "latin_spelling": "d3if",
+    "origin_language": "Arabic",
+    "arabic_spelling": "ضعيف",
+    "english": "weak"
+  },
+  {
+    "latin_spelling": "faible",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "weak"
+  },
+  {
+    "latin_spelling": "mnawer",
+    "origin_language": "Arabic",
+    "arabic_spelling": "منور",
+    "english": "bright"
+  },
+  {
+    "latin_spelling": "brillant", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "bright"
+  },
+  {
+    "latin_spelling": "m3atem",
+    "origin_language": "Arabic",
+    "arabic_spelling": "معتم",
+    "english": "dark"
+  },
+  {
+    "latin_spelling": "sombre", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "dark" 
+  },
+  {
+    "latin_spelling": "tqil",
+    "origin_language": "Arabic",
+    "arabic_spelling": "تقيل",
+    "english": "heavy"
+  },
+  {
+    "latin_spelling": "lourd", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "heavy"
+  },
+  {
+    "latin_spelling": "khfif",
+    "origin_language": "Arabic",
+    "arabic_spelling": "خفيف",
+    "english": "light"
+  },
+  {
+    "latin_spelling": "léger",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "light"
+  },
+  {
+    "latin_spelling": "bkri",
+    "origin_language": "Arabic",
+    "arabic_spelling": "بكрі",
+    "english": "early"
+  },
+  {
+    "latin_spelling": "tôt", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "early"
+  },
+  {
+    "latin_spelling": "m3atel",
+    "origin_language": "Arabic",
+    "arabic_spelling": "معطل",
+    "english": "slow"
+  },
+  {
+    "latin_spelling": "lent", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "slow"
+  },
+  {
+    "latin_spelling": "yedwi",
+    "origin_language": "Arabic",
+    "arabic_spelling": "يضوي",
+    "english": "painful"
+  },
+  {
+    "latin_spelling": "douloureux", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "painful"
+  },
+  {
+    "latin_spelling": "mferwech",
+    "origin_language": "Arabic",
+    "arabic_spelling": "مفروش",
+    "english": "spread out"
+  },
+  {
+    "latin_spelling": "étalé",
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "spread out"
+  },
+  {
+    "latin_spelling": "mor",
+    "origin_language": "Arabic",
+    "arabic_spelling": "مر",
+    "english": "bitter"
+  },
+  {
+    "latin_spelling": "amer", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "bitter"
+  },
+  {
+    "latin_spelling": "hlou",
+    "origin_language": "Arabic",
+    "arabic_spelling": "حلو",
+    "english": "sweet"
+  },
+  {
+    "latin_spelling": "sucré", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "sweet"
+  },
+  {
+    "latin_spelling": "qased",
+    "origin_language": "Arabic",
+    "arabic_spelling": "قاسد",
+    "english": "hard"
+  },
+  {
+    "latin_spelling": "dur", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "hard"
+  },
+  {
+    "latin_spelling": "na3em",
+    "origin_language": "Arabic",
+    "arabic_spelling": "نعيم",
+    "english": "soft"
+  },
+  {
+    "latin_spelling": "mou", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "soft"
+  },
+  {
+    "latin_spelling": "nadir",
+    "origin_language": "Arabic",
+    "arabic_spelling": "نادر",
+    "english": "rare"
+  },
+  {
+    "latin_spelling": "khawwaf",
+    "origin_language": "Arabic",
+    "arabic_spelling": "خواف",
+    "english": "scary"
+  },
+  {
+    "latin_spelling": "effrayant", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "scary"
+  },
+  {
+    "latin_spelling": "zwani",
+    "origin_language": "Arabic",
+    "arabic_spelling": "زعني",
+    "english": "noisy"
+  },
+  {
+    "latin_spelling": "bruyant", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "noisy"
+  },
+  {
+    "latin_spelling": "sakt",
+    "origin_language": "Arabic",
+    "arabic_spelling": "ساكت",
+    "english": "quiet"
+  },
+  {
+    "latin_spelling": "silencieux", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "quiet"
+  },
+  {
+    "latin_spelling": "mousakh",
+    "origin_language": "Arabic",
+    "arabic_spelling": "موسخ",
+    "english": "dirty"
+  },
+  {
+    "latin_spelling": "shbab",
+    "origin_language": "Arabic",
+    "arabic_spelling": "شباب",
+    "english": "beautiful"
+  },
+  {
+    "latin_spelling": "beau", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "beautiful"
+  },
+  {
+    "latin_spelling": "sahel",
+    "origin_language": "Arabic",
+    "arabic_spelling": "سهل",
+    "english": "easy"
+  },
+  {
+    "latin_spelling": "facile", 
+    "origin_language": "French",
+    "arabic_spelling": null,
+    "english": "easy"
+  },
+  {
+    "latin_spelling": "kbir",
+    "origin_language": "Arabic",
+    "arabic_spelling": "كبير",
+    "english": "great"
+  }
+]
